@@ -1,5 +1,6 @@
+NUM_VECES = 3
 print("Como te llamas ?")
 name = input()
 print("hola "+name)
-    for i in range(5):
-        print("Como estas")
+for x in range(3):
+    print("Que tal ?"+str(x))
