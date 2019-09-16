@@ -4,3 +4,4 @@ name = input()
 print("hola "+name)
 for x in range(NUM_VECES):
     print("Que tal ?"+str(x))
+    print("boton verde")
